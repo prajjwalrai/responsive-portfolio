@@ -88,7 +88,7 @@ The website does not have an API, as it is a statically generated website. Howev
 
 👤 Author
 --------
-The website was built by **[Your Name]**, a MERN Stack Developer with a passion for building fast, scalable, and secure web applications.
+The website was built by **Prajjwal Rai**, a MERN Stack Developer with a passion for building fast, scalable, and secure web applications.
 
 📝 License
 --------
